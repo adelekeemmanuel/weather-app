@@ -277,7 +277,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/adelekeemmanuel)
+- GitHub: https://github.com/adelekeemmanuel
 - Email: adelekeemmanuel29@gmail.com
 
 ## 🙏 Acknowledgments
